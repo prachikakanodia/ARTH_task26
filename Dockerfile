@@ -10,17 +10,3 @@ RUN yum install gedit -y
 
 CMD ["/usr/bin/firefox"]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
